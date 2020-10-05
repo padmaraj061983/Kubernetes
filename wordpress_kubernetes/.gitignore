@@ -1,0 +1,2 @@
+# Don't Track .passwd file
+*.passwd
